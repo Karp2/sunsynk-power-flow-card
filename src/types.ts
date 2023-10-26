@@ -20,7 +20,8 @@ export interface sunsynkPowerFlowCardConfig extends LovelaceCardConfig {
         autarky: 'energy' | 'power' | 'no';
         model: 'sunsynk' | 'lux';
         auto_scale: boolean;
-        three_phase: boolean;
+        three_phase_full: boolean;
+        three_phase_light: boolean;
     }
     battery: {
         energy: number;

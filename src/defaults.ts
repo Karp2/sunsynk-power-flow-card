@@ -15,7 +15,8 @@ export default {
         autarky: 'power',
         model: 'sunsynk',
         auto_scale: false,
-        three_phase: false,
+        three_phase_full: false,
+        three_phase_light: false,
     },
     battery: {
         energy: 0,
