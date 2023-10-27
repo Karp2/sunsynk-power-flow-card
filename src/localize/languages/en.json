@@ -10,6 +10,8 @@
         "daily_aux": "DAILY AUX",
         "daily_grid_buy": "DAILY GRID BUY",
         "daily_grid_sell": "DAILY GRID SELL",
+        "daily_inverter_imp": "DAILY INV IMP",
+        "daily_inverter_exp": "DAILY INV EXP",
         "daily_solar": "DAILY SOLAR",
         "daily_solar_left": "DAILY SOLAR / LEFT TODAY",
         "total_solar_generation": "DAILY SOLAR / TOTAL SOLAR",

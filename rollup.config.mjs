@@ -53,9 +53,9 @@ const plugins = [
 export default {
     input: ['./src/index.ts'],
     output: {
-        file: 'dist/sunsynk-power-flow-card.js',
+        file: 'dist/sunsynk-power-flow-card2.js',
         format: 'umd',
-        name: 'SunsynkPowerFlowCard',
+        name: 'SunsynkPowerFlowCard2',
     },
     watch: {
         clearScreen: false,
